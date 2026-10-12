@@ -65,4 +65,4 @@ Excel, Python (matplotlib, numpy), Gantt charts, work breakdown structure, criti
 
 **Reshma Vinnapala**
 B.Tech in Electrical and Electronics Engineering | Ex-Infosys System Engineer Trainee (Oracle 21c DBA)
-LinkedIn: *add your profile link here*
+LinkedIn: *www.linkedin.com/in/reshma-vinnapala*
